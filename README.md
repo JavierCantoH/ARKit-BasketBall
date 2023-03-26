@@ -2,9 +2,6 @@
 
 👋 Welcome to ARBasketBall, a simple ARKit app that lets you shoot hoops anywhere!
 
-📸 Screenshots:
-[Insert screenshots here]
-
 🚀 Usage:
 To run the app, you'll need Xcode and an iOS device running iOS 11 or later. Here's how to get started:
 1. Clone the repository to your local machine.
